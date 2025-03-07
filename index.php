@@ -34,6 +34,5 @@
     </div>
   </div>
 </form>
-<a href="info.php">info</a>
 </body>
 </html>
